@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
+### Mission
+Nu Foundation is a non-profit that builds networks of communities, resources, and events that are inclusive, anti-racist, Jesus-loving, and social justice-oriented.
 
-**Here are some ideas to get you started:**
+### Vision 
+Loving communities restoring the world through you & me. That Christians would find liberation through love.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### About 
+nuFoundation is a non-profit organization, co-founded by Adam Evers and Will Remigio in 2023. Born out of a shared frustration and commitment to change, we are a tech duo with a mission to disrupt religious trauma and foster inclusivity within Christian congregations, utilizing technology to bridge gaps and build connections.
+
+We have developed a suite of technology products under the nuFoundation umbrella, all aimed at serving faith communities. Our key offerings include nu.community, a unique church 
+search engine that allows individuals to find congregations that align with their values, qVault, a volunteer portal, and other tools. While we are powered by the spirit of volunteerism, we operate like a tech company, utilizing the latest technology and tools to drive our mission forward.
+
+Our goal is to revolutionize the faith landscape by building an ecosystem where communities, resources, and events are inclusive, anti-racist, Jesus-loving, and social justice-oriented. We believe in leveraging the power of data and technology to achieve this goal, creating a world where faith and acceptance coexist harmoniously.
